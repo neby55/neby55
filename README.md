@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neby55
-- 👀 I’m interested in working in crypto currencies domain, especially at Just-Mining firm
-- 🌱 I’m currently learning Next.js
+- 👀 I’m interested in working in crypto currencies domain
+- 🌱 I’m currently learning Next.js, Vue.js & Svelte (frontend libs)
 - 📫 How to reach me : neby55 (at) gmail.com
 
 <!---
