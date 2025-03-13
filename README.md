@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neby55
 - 👀 I’m a backend Web Developer interested in new challenges (web3, EDA, unmastered languages)
-- 🌱 I’m currently learning Next.js, Vue.js, Svelte (frontend libs) and Python
+- 🌱 I’m currently learning Python and Golang
 - 📫 How to reach me : neby55 (at) gmail.com
 
 <!---
